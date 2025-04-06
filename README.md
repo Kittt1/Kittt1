@@ -18,7 +18,7 @@
   </div>
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&random=true&width=1200&lines=______________________________________________________________________________________________" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&random=true&width=1200&lines=____________________________________________________________________________________________________" alt="Typing SVG" />
     </a>
   </p>
   <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
