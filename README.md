@@ -10,10 +10,10 @@
   </p>
   <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=Kittt1&theme=radical&show_icons=true" alt="GitHub Stats" style="width: 49%; height: 200px; object-fit: contain;"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=wxqryy&theme=radical&show_icons=true" alt="GitHub Stats" style="width: 49%; height: 200px; object-fit: contain;"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kittt1&theme=radical&layout=compact" alt="Top Languages" style="width: 49%; height: 200px; object-fit: contain;"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wxqryy&theme=radical&layout=compact" alt="Top Languages" style="width: 49%; height: 200px; object-fit: contain;"/>
     </a>
   </div>
   <p align="center">
